@@ -9,9 +9,9 @@ const carousel = document.getElementById('carousel');
 let itemWidth; // match your image width
 
 if (window.innerWidth < 768) {
-  itemWidth = 344;
+  itemWidth = 320;
 } else {
-  itemWidth = 1024;
+  itemWidth = 1280;
 }
 
 nextBtn.addEventListener('click', () => {

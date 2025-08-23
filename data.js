@@ -43,5 +43,20 @@ const mockReviews = [
     author: "James Wilson",
     rating: 5,
     text: "Exceptional experience from start to finish. The attention to detail was clear in both the presentation of the food and the way the staff interacted with customers. The chef even came out to ask if everything was satisfactory — a nice personal touch. Without a doubt, this is one of the best dining experiences I’ve had in a while."
+  },
+  {
+    author: "Priya Singh",
+    rating: 4,
+    text: "Lovely place with a great selection of vegetarian options. The staff was friendly and made sure we were comfortable throughout our meal. The only downside was the limited parking space, but the food made up for it. Will visit again!"
+  },
+  {
+    author: "Carlos Rivera",
+    rating: 3.5,
+    text: "Good food and decent service, but nothing particularly stood out. The pizza crust was a bit too thick for my liking, though the toppings were fresh. It's a solid choice for a casual dinner, but I’ve had better elsewhere."
+  },
+  {
+    author: "Hannah Green",
+    rating: 4.5,
+    text: "A delightful experience! The staff was attentive and the ambiance was perfect for a relaxed evening. I especially loved the risotto, which was creamy and full of flavor. The wine selection complemented our meal nicely. Will definitely be coming back soon!"
   }
 ];
