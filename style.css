@@ -14,6 +14,10 @@ html, body, main, #carousel-container, .review-wrapper {
   -ms-overflow-style: none;  /* For Internet Explorer and Edge */
 }
 
+html::-webkit-scrollbar, body::-webkit-scrollbar, main::-webkit-scrollbar, #carousel-container::-webkit-scrollbar, .review-wrapper::-webkit-scrollbar {
+  display: none; /* For Chrome, Safari, and Opera */
+}
+
 main {
   display: flex;
   flex-direction: column;
