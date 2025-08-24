@@ -116,9 +116,7 @@ main {
   }
 
   .reviews:last-child {
-    margin-right: 0;
-    grid-row: span 2;
-    align-self: end;
+    grid-row: 2 /span 1;
   }
 
   .profile {
